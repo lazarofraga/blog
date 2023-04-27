@@ -1,6 +1,6 @@
 baseURL = 'http://lazarofraga.com/'
 languageCode = 'en-us'
-title = 'Laz\'s Security Blog'
+title = "Laz's Security Blog"
 theme = 'hello-friend-ng'
 paginate = 10
 
